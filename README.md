@@ -115,7 +115,7 @@ alt="os_version" width="1200">
 
 Чтобы переключаться между меню Maze (лабиринты) и Cave (пещеры) используйте однименные кнопки
 <img src="images/01_1.png"
-alt="os_version" width="1200">
+alt="os_version" width="500">
 
 ### Описание пещер
 
